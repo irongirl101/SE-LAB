@@ -4,5 +4,5 @@ For Software Engineering Labs
 # Lab 05 
 https://github.com/irongirl101/L5_24_school_transport
 
-# Lab 06 
+# Lab 06 and Lab 07
 https://github.com/irongirl101/L6_L7_24_pizza_order
